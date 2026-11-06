@@ -17,7 +17,7 @@ Every decision comes back as one of `allow`, `redact`, `hold` or `block`, posted
 ## Try it in two minutes
 
 ```bash
-git clone <this repo> && cd tollgate
+git clone https://github.com/firstoasisfc-droid/tollgate && cd tollgate
 echo CLOCKED_API_KEY=your_key_here > .env
 node server.js        # http://localhost:3000, no npm install needed
 ```
