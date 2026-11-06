@@ -1,0 +1,10 @@
+.env
+.env.*
+node_modules
+.vercel
+.impeccable/mocks/
+.impeccable/decision-payload.json
+.impeccable/brief-body.md
+
+.vercel
+.env*

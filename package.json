@@ -1,0 +1,13 @@
+{
+  "name": "tollgate",
+  "version": "1.0.0",
+  "description": "Screening gates for LLM agents: Protect, Guard and Inspect, powered by the Clocked API.",
+  "main": "lib/tollgate.js",
+  "scripts": {
+    "start": "node server.js",
+    "eval": "node eval/run.js",
+    "test": "node --test test/tollgate.test.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
