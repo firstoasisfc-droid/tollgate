@@ -30,7 +30,7 @@ Guard blocked a security-training document that quotes "ignore previous instruct
 **Reproducibility**
 `node server.js` runs it with no install. `npm test` runs nine offline checks with no credits. `npm run eval` reruns the 15-sample evaluation. README covers setup, Vercel deploy and the middleware API.
 
-**Repository**: <public GitHub URL>
+**Repository**: https://github.com/firstoasisfc-droid/tollgate
 **Demo video**: <URL>
 **Live demo**: https://tollgate-mocha.vercel.app
 **Team**: <your name>, solo
